@@ -1,2 +1,2 @@
-# simplerfidproject
-Simple RFID project that uses an RC522 Scanner and a Pico microcontroller.
+# simplerfidproject 
+This project uses an RFID-RC522 module with a Raspberry Pi Pico W to authenticate and verify RFID cards. Verified cards trigger a green LED, while unregistered cards activate a red LED. An admin card grants access to a settings menu, allowing users to add/remove cards, view the last 20 scans, configure Wi-Fi for time-sync and remote logging, and set up events for attendance tracking. The system is navigated using three buttons (up, down, select). Logs are stored locally, and timestamps are retrieved via an NTP server when Wi-Fi is enabled.
