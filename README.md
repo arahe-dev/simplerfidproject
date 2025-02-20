@@ -15,5 +15,7 @@ LED No       |          | 10
 Button Up    |          | 15
 Button Enter |          | 14
 Button Down  |          | 13
+
+
 For further documentation:
-https://docs.google.com/document/d/1pCgsp-KPd9friPoHQW31ud2zWDeNDkMBJfdr-3svOIo/edit?tab=t.0Pin
+https://docs.google.com/document/d/1pCgsp-KPd9friPoHQW31ud2zWDeNDkMBJfdr-3svOIo/edit?usp=sharing
